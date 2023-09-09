@@ -14,7 +14,8 @@ This page goes into detail how I actually got into TAS back then in High School,
 This page is rather short, however, it is a page that enables users to contact me via a form and by contacting my LinkedIn embedded profile.
 
 Many changes were made in terms of the scripts, font family choices and colours for the website.
-Other changes included images and the overall layout of the website. The nav class is also a feature that allows users to redirect themselves back to the home page or to other subpages of the website.
+Other changes included images and the overall layout of the website.
+The nav class is also a feature that allows users to redirect themselves back to the home page or to other subpages of the website.
 
 -------------------------------------------------------------------------------------------
 
